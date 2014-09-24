@@ -10,7 +10,7 @@ Rider is a CSS library to focus on Mobile Web, build on top of Stylus.
 $ npm install hexo-renderer-rider --save
 ```
 
-__Notice: if `hexo-renderer-rider` does not work, maybe you need uninstall `hexo-renderer-stylus` first, they are all supported `Stylus`.__
+_Notice: if `hexo-renderer-rider` does not work, maybe you need uninstall `hexo-renderer-stylus` first, they are all supported `Stylus`._
 
 ## Options
 
@@ -25,8 +25,8 @@ rider:
       - iOS >= 6
 ```
 
-* compress - Compress generated CSS
-* autoprefixer - Parse CSS and add vendor prefixes to rules by Can I Use [see more options](https://github.com/postcss/autoprefixer#browsers)
+* compress - Compress generated CSS.
+* autoprefixer - Parse CSS and add vendor prefixes to rules by Can I Use. [see more options](https://github.com/postcss/autoprefixer#browsers)
 
 ## License
 
