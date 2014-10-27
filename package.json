@@ -1,6 +1,6 @@
 {
     "name": "hexo-renderer-rider",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Rider renderer plugin for Hexo.",
     "main": "index",
     "repository": "https://github.com/firede/hexo-renderer-rider.git",
@@ -16,8 +16,8 @@
     "author": "Firede <firede@firede.us>",
     "license": "MIT",
     "dependencies": {
-        "autoprefixer-core": "~3.1.2",
-        "stylus": "~0.49.2",
-        "rider": "~0.4.3"
+        "autoprefixer-core": "^3.1.2",
+        "stylus": "^0.49.1",
+        "rider": "^0.4.3"
     }
 }
