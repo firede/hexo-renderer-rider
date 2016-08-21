@@ -1,6 +1,6 @@
 {
     "name": "hexo-renderer-rider",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Rider renderer plugin for Hexo.",
     "main": "index",
     "repository": "https://github.com/firede/hexo-renderer-rider.git",
